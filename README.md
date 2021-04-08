@@ -1,1 +1,1 @@
-"Мой первый проект на Хекслете"
+My first js project in Hexlet
